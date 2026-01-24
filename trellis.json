@@ -1,0 +1,22 @@
+{
+    "version": "0.7.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/aretw0/trellis/releases/download/v0.7.0/trellis_Windows_x86_64.zip",
+            "bin": [
+                "trellis.exe"
+            ],
+            "hash": "6b7258a77965cf559667108cca06ecfc372028e4c01b6602460c0af1b24b7dd4"
+        },
+        "arm64": {
+            "url": "https://github.com/aretw0/trellis/releases/download/v0.7.0/trellis_Windows_arm64.zip",
+            "bin": [
+                "trellis.exe"
+            ],
+            "hash": "55c038dd63c17093145f6915c469e48e0da3ed1eba7e20941b10d4fc632028ae"
+        }
+    },
+    "homepage": "https://github.com/aretw0/trellis",
+    "license": "AGPL-3.0",
+    "description": "Deterministic state machine engine for CLIs and automation."
+}
