@@ -41,7 +41,3 @@ scoop update <app-name>
 ## Contributing
 
 If you find any issues with the manifests in this bucket, please open an issue or submit a pull request.
-
-## License
-
-This repository is licensed under the MIT License. Individual applications may have their own licenses - please check each app's homepage for details.
