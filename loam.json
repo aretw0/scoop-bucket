@@ -1,0 +1,22 @@
+{
+    "version": "0.10.8",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/aretw0/loam/releases/download/v0.10.8/loam_Windows_x86_64.zip",
+            "bin": [
+                "loam.exe"
+            ],
+            "hash": "f52ce3846a61c28f886969c286221361f2e531eea36dc4c0938a928174c4446b"
+        },
+        "arm64": {
+            "url": "https://github.com/aretw0/loam/releases/download/v0.10.8/loam_Windows_arm64.zip",
+            "bin": [
+                "loam.exe"
+            ],
+            "hash": "744580bb9d07edf48df386cd6793b745ba763e74dba61bffcd41de5b43d60fd2"
+        }
+    },
+    "homepage": "https://github.com/aretw0/loam",
+    "license": "AGPL-3.0",
+    "description": "An Embedded Reactive \u0026 Transactional Engine for Content \u0026 Metadata."
+}
