@@ -1,19 +1,19 @@
 {
-    "version": "0.10.8",
+    "version": "0.10.9",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/aretw0/loam/releases/download/v0.10.8/loam_Windows_x86_64.zip",
+            "url": "https://github.com/aretw0/loam/releases/download/v0.10.9/loam_Windows_x86_64.zip",
             "bin": [
                 "loam.exe"
             ],
-            "hash": "f52ce3846a61c28f886969c286221361f2e531eea36dc4c0938a928174c4446b"
+            "hash": "518f665394d34f36ce36d88ea1925de72d64650f5105c50969e79ccaa435bf83"
         },
         "arm64": {
-            "url": "https://github.com/aretw0/loam/releases/download/v0.10.8/loam_Windows_arm64.zip",
+            "url": "https://github.com/aretw0/loam/releases/download/v0.10.9/loam_Windows_arm64.zip",
             "bin": [
                 "loam.exe"
             ],
-            "hash": "744580bb9d07edf48df386cd6793b745ba763e74dba61bffcd41de5b43d60fd2"
+            "hash": "200d0e8ca30bb9dd044a7431705cada6f3bed9a138160a4dd9fea67588164792"
         }
     },
     "homepage": "https://github.com/aretw0/loam",
