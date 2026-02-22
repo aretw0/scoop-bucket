@@ -1,19 +1,19 @@
 {
-    "version": "0.7.12",
+    "version": "0.7.13",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/aretw0/trellis/releases/download/v0.7.12/trellis_Windows_x86_64.zip",
+            "url": "https://github.com/aretw0/trellis/releases/download/v0.7.13/trellis_Windows_x86_64.zip",
             "bin": [
                 "trellis.exe"
             ],
-            "hash": "d2b448a107932e37bb8c2abe1e3dfff2c1fce739e612379b31354d6f06b7a766"
+            "hash": "a9d55d6e43e3ce8946385f883e67690749ba913ab5c5bf60ddd5214d77274241"
         },
         "arm64": {
-            "url": "https://github.com/aretw0/trellis/releases/download/v0.7.12/trellis_Windows_arm64.zip",
+            "url": "https://github.com/aretw0/trellis/releases/download/v0.7.13/trellis_Windows_arm64.zip",
             "bin": [
                 "trellis.exe"
             ],
-            "hash": "b2aac63ecd8f8d6c6a2eb7099b303496c6cd0334bfc08da0ae49d97cccee0eff"
+            "hash": "1d591fc7fd6d98b1e8ec7eea3a107b41d3ac159604f8879afec265f6de6f291b"
         }
     },
     "homepage": "https://github.com/aretw0/trellis",
