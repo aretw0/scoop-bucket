@@ -6,14 +6,14 @@
             "bin": [
                 "trellis.exe"
             ],
-            "hash": "f3032602b480a11dabe77960a178906365872ad1226dac92db9c86f48038fa1d"
+            "hash": "a0a8602245b78a23bb8658d254233ba62b38ad93781553a925b2d4a5b29197fd"
         },
         "arm64": {
             "url": "https://github.com/aretw0/trellis/releases/download/v0.7.16/trellis_Windows_arm64.zip",
             "bin": [
                 "trellis.exe"
             ],
-            "hash": "fd7ff6183fc505cb9b2d14e5c2f1c4b14d824a0758f0a277881ff4371bd6a255"
+            "hash": "9642c503de2fcde6b452908abd0dd104e9a803d2c77d68da156d914c1f6a9080"
         }
     },
     "homepage": "https://github.com/aretw0/trellis",
